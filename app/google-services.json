@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "957857271081",
+    "firebase_url": "https://forceupdate-5ce16.firebaseio.com",
+    "project_id": "forceupdate-5ce16",
+    "storage_bucket": "forceupdate-5ce16.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:957857271081:android:c2cede9d37b222ad",
+        "android_client_info": {
+          "package_name": "com.ahmadrosid.forceupdate"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "957857271081-31lfpsd4pb861hmebfde27bbr4u9oqrq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ahmadrosid.forceupdate",
+            "certificate_hash": "94da80bc69300dc8b3bd1752568bf01123cef197"
+          }
+        },
+        {
+          "client_id": "957857271081-68h43qn5lqo979gkehasl9idbg8mv8ca.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5yOTPK_lEWjKFuy-FQNZV6bz69B-U0rw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "957857271081-68h43qn5lqo979gkehasl9idbg8mv8ca.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
